@@ -1,0 +1,66 @@
+CONTRAT DE TRAVAIL CDI
+Société ABC Technologies
+Date: 30 juin 2025
+
+ARTICLE 1 - IDENTIFICATION DES PARTIES
+
+Employeur: ABC Technologies SARL
+Adresse: 123 Rue de la Innovation, 75001 Paris
+SIRET: 12345678901234
+
+Employé: Jean DUPONT
+Adresse: 456 Avenue des Développeurs, 92000 Nanterre
+Né le: 15 mars 1990
+
+ARTICLE 2 - OBJET DU CONTRAT
+
+La société ABC Technologies engage M. Jean DUPONT en qualité de Développeur Senior Full-Stack, à compter du 1er juillet 2025, pour une durée indéterminée.
+
+ARTICLE 3 - FONCTIONS ET RESPONSABILITÉS
+
+Le salarié aura pour missions principales:
+- Développement d'applications web et mobiles
+- Encadrement d'une équipe de 3 développeurs juniors
+- Participation à l'architecture technique des projets
+- Formation et mentoring des nouveaux collaborateurs
+- Veille technologique et innovation
+
+ARTICLE 4 - RÉMUNÉRATION
+
+Le salaire brut mensuel est fixé à 4 500 euros, payable le dernier jour ouvrable de chaque mois.
+
+Une prime de performance annuelle pourra être versée en fonction des objectifs atteints, dans la limite de 20% du salaire annuel brut.
+
+ARTICLE 5 - DURÉE DU TRAVAIL
+
+La durée hebdomadaire de travail est de 35 heures, réparties du lundi au vendredi.
+
+Horaires: 9h00 - 17h30 avec 1h30 de pause déjeuner.
+
+Possibilité de télétravail 2 jours par semaine après accord du manager.
+
+ARTICLE 6 - CONGÉS PAYÉS
+
+Le salarié bénéficie de 25 jours de congés payés par an, plus les jours fériés légaux.
+
+ARTICLE 7 - PÉRIODE D'ESSAI
+
+La période d'essai est fixée à 3 mois, renouvelable une fois.
+
+ARTICLE 8 - CONFIDENTIALITÉ
+
+Le salarié s'engage à respecter la confidentialité des informations de l'entreprise et de ses clients.
+
+ARTICLE 9 - FORMATION
+
+L'entreprise s'engage à financer 5 jours de formation par an pour maintenir les compétences techniques à jour.
+
+ARTICLE 10 - RÉSILIATION
+
+Le contrat peut être rompu par l'une ou l'autre des parties avec un préavis de 2 mois.
+
+Fait à Paris, le 30 juin 2025
+En deux exemplaires
+
+Signature Employeur        Signature Employé
+ABC Technologies          Jean DUPONT
